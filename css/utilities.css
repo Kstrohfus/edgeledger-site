@@ -68,7 +68,7 @@
 
 /* Felx columns (Employee image and text)*/
 
-.flex-columns.flex-reverse .row{
+.flex-columns.flex-reverse .row {
     flex-direction: row-reverse;
 }
 
