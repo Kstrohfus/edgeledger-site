@@ -1,4 +1,4 @@
-# EdgeLedger-site
+# EdgeLedger Project
 Mock Finance Company Site
 
 
