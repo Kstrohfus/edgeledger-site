@@ -68,6 +68,10 @@
 
 /* Felx columns (Employee image and text)*/
 
+.flex-columns.flex-reverse .row{
+    flex-direction: row-reverse;
+}
+
 .flex-columns .row {
     display: flex;
     flex-direction: row;
@@ -142,7 +146,7 @@
     padding: 4px;
 }
 
-.flex-grid .cloumn {
+.flex-grid .column {
     flex: 25%;
     max-width: 25%;
     padding: 0 4px;
